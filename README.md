@@ -5,8 +5,8 @@
 
 In the root folder of the project:
 
-1. `npm install`
-2. `npm run test:install`
+1. `$ npm install`
+2. `$ npm run test:install`
 
 ## Insert credentials
 
@@ -17,5 +17,5 @@ In the root folder of the project:
 
 In the root folder of the project:
 
-1. `npm run test:start`
-2. `npm run test:report`
+1. `$ npm run test:start`
+2. `$ npm run test:report`
